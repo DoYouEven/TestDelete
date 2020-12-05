@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 r1
 Test2
 Test4
+=======
+sadasdasdsa vzxdfsdfd
+>>>>>>> 8d2cf13be712f0b5dd76d018289cae461aba19ed
